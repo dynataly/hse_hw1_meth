@@ -9,7 +9,9 @@ fastqc анализ для 8cell
 
 таблица:
 I - число ридов, закартированных на участок 11347700-11367700
+
 II - число ридов, закартированных на участок 40185800-40195800
+
 III - процент дуплицированных чтений
 
 ![таблица](https://user-images.githubusercontent.com/72361668/154709521-46eb66df-18aa-4158-8c8f-88fa6dbbb054.png)
@@ -37,6 +39,14 @@ M-bias plot
 
 Уровень метилирования и покрытия каждого образца
 
+8-cell:
+
 ![im_8cell](https://user-images.githubusercontent.com/72361668/154709740-c3d3c14f-7fc8-4491-b30f-12e5e3aeb204.png)
+
+ICM:
+
 ![im_icm](https://user-images.githubusercontent.com/72361668/154709753-4d23b5ce-d922-4fdf-8bb5-a944248d583f.png)
+
+Epiblast:
+
 ![im_epi](https://user-images.githubusercontent.com/72361668/154709760-409fc981-a117-4af6-8818-930efe3ec81c.png)
