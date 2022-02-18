@@ -18,10 +18,24 @@ III - процент дуплицированных чтений
 
 
 M-bias plot
-Для epiblast:
 
-![m-bias epi 1](https://user-images.githubusercontent.com/72361668/154709594-1f9c87df-36dd-4892-b125-0dc1ee905a57.png)
-![m-bias epi 2](https://user-images.githubusercontent.com/72361668/154709599-324f3aad-0a7a-4bd8-a2ae-add1358f2339.png)
+
+Для всех трех случаев виден значительный рост CPG, CHG и CHH в конце (более ярко выражен на обратных ридах).
+
+Для 8_cell:
+
+
+![mbias_8cell](https://user-images.githubusercontent.com/72361668/154723480-cd62de9f-520d-489a-8b4a-710de8d701b9.png)
+
+ICM:
+
+![mbias_icm](https://user-images.githubusercontent.com/72361668/154723499-566736e7-4835-4eac-84b5-2c93668d3c79.png)
+
+Epiblast:
+
+![mbias_epi](https://user-images.githubusercontent.com/72361668/154723508-4b08b714-e07a-4d56-9b14-426871c370ba.png)
+
+В целом графики демонстрируют ожидаемый результат: уровень метилирования сначала не очень высокий, потом падает, потом снова возрастает по мере развития эмбриона. Тот же разультат можно наблюдать и на гисторгаммах.
 
 
 Гистограммы
